@@ -1,6 +1,8 @@
 #! /bin/bash -x
 #! /bin/bash -x
 #constant variable
+
+
 IS_PRESENT=1
 #variable
 randomCheck=$((RANDOM%2))
